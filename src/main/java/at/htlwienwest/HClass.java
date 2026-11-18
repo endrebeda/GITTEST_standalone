@@ -5,6 +5,6 @@ public class HClass {
 
     public HClass(int i) {
         this.i = i;
-        // Add Commentar
+        // Add Comment and Number
     }
 }
